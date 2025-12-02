@@ -248,5 +248,19 @@ FUTURE IMPROVEMENTS
 
 
 -------
-MIT License
+**OUR TEAM :**
+
+**GROUP NUMBER : 3**
+
+I. Saurabh Kumar Singh (20233256)
+II. Shubranshu Mishra (20233272)
+III. Saurabh Kumar (20233255)
+IV. Sourabh Kumar (20233353)
+V. Shivanshu Pathak (20233267)
+VI. Suresh Choudhary (20233281)
+VII. Sumit Sharma (20233279)
+VIII. Surya Pratap Singh (20233283)
+IX. Swatantra Maurya (20233285)
+X. Vishwajeet Gupta (20233316)
+XI. Viswa Ravindren (20233584) 
 
